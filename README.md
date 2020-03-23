@@ -1,10 +1,10 @@
 # SimpleDataScraping with Scrapy in Python
 
 Scraping the following data from multiple pages:
-#name
-#price
-#Url 
-#ImageLink 
+<br>#name
+<br>#price
+<br>#Url 
+<br>#ImageLink 
 
 and store in a json and csv file.
 
