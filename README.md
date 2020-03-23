@@ -10,7 +10,7 @@ Scraping the following data from multiple pages:
 <br>#Url 
 <br>#ImageLink 
 
-and store in a json and csv file.
+and store in a json and csv/xlsx file.
 <br>
 <br>
 
